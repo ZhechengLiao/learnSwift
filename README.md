@@ -1,5 +1,14 @@
 # Record the process of learning Apple Dev
 
-## Step 1: Learn Swift
+## Swift Basic
+I first watch the video of "CodeWithChris" on Youtube named "Swift Tutorial for Beginner". There, I learned:
+- Variable
+- If and For
+- Function
+- Class
+- 
 
-## Step 2: Real Project
+## SwiftUI
+Still, I am ready to take the course of "SwiftUI Tutorial for Beginner".
+
+
