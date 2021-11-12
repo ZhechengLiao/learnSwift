@@ -5,10 +5,10 @@ I first watch the video of "CodeWithChris" on Youtube named "Swift Tutorial for 
 - Variable
 - If and For
 - Function
-- Class
-- 
+- Class 
 
-## SwiftUI
-Still, I am ready to take the course of "SwiftUI Tutorial for Beginner".
+## UIKit
 
+
+## SwiftUI 
 
