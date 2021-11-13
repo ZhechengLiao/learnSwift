@@ -12,7 +12,7 @@ I first watch the video of "CodeWithChris" on Youtube named "Swift Tutorial for 
 
 ## SwiftUI 
 
-From Chirs course, I personally build a easy app, and I learned:
+From Chirs course, I personally build an easy app, and I learned:
 
 - Text
 - Stack
